@@ -105,7 +105,7 @@ with open('bulk.csv', mode='r') as csv_bulk:
     output.write('\n')
     output.close()
     print(figlet_format("BYE BYE"))
-    print("Created By Mazen A. Gaballah")
+    print("Written By Mazen A. Gaballah")
 
 
 
